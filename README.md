@@ -8,8 +8,6 @@ This HTML CV Template is a simple and elegant way to create a personalized Curri
 
 - **Customizable**: Easily personalize the template by replacing the sample content with your own information.
 
-- **Responsive**: The template is responsive and adapts to various screen sizes, ensuring your CV looks great on both desktop and mobile devices.
-
 ## Usage
 
 1. Download the template files from [GitHub](#).
